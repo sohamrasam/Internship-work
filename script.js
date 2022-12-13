@@ -6,7 +6,8 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ 'HAPPY', 'BIRTHDAY!' ],
+			strings: [ 'I', 'AM','SORRY','MUGDHA','❤️','please','mafh','karde' ],
+				
 			charSize: 30,
 			charSpacing: 35,
 			lineHeight: 40,
@@ -14,9 +15,7 @@ var w = c.width = window.innerWidth,
 			cx: w / 2,
 			cy: h / 2,
 			
-			fireworkPrevPoints: 10,
-			fireworkBaseLineWidth: 5,
-			fireworkAddedLineWidth: 8,
+			
 			fireworkSpawnTime: 200,
 			fireworkBaseReachTime: 30,
 			fireworkAddedReachTime: 30,
